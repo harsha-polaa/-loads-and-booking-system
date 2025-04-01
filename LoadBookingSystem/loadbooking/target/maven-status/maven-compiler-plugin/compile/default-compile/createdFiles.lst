@@ -1,0 +1,10 @@
+com\example\loadbooking\repositories\BookingRepository.class
+com\example\loadbooking\TestController.class
+com\example\loadbooking\repositories\LoadRepository.class
+com\example\loadbooking\controllers\BookingController.class
+com\example\loadbooking\services\BookingService.class
+com\example\loadbooking\models\Load.class
+com\example\loadbooking\LoadBookingSystemApplication.class
+com\example\loadbooking\services\LoadService.class
+com\example\loadbooking\models\Booking.class
+com\example\loadbooking\controllers\LoadController.class
